@@ -1,0 +1,14 @@
+                             precision    recall  f1-score   support
+
+           customer_sharing       0.59      0.71      0.65       270
+        exclusive_contracts       0.89      0.67      0.77       113
+                bid_rigging       0.94      0.99      0.96       676
+          market_allocation       0.73      0.64      0.68       112
+         abuse_of_dominance       0.57      0.58      0.57       113
+               price_fixing       0.57      0.46      0.51       112
+other_competition_violation       0.48      0.22      0.30       157
+                      clean       0.73      0.91      0.81       225
+
+                   accuracy                           0.77      1778
+                  macro avg       0.69      0.65      0.66      1778
+               weighted avg       0.76      0.77      0.75      1778

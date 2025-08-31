@@ -1,0 +1,197 @@
+[
+  {
+    "file": "Karar-kararId=01a1254c-7743-4ec8-a0db-f70cc6b7c765.pdf",
+    "status": "success",
+    "text_length": 4262,
+    "cleaned_length": 4236,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2012-4-155 Karar Sayısı : 12-27 807-231 Karar Tarihi : 23.05.2012 A. TOPLANTIYA KATILAN ÜYELER Başkan : Prof. Dr. Nurettin KALDIRIMC...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.990908682346344,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=01ae68aa-6776-4491-a509-dac721c75887.pdf",
+    "status": "success",
+    "text_length": 30906,
+    "cleaned_length": 30760,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2010-3-81 Önaraştırma Karar Sayısı : 10-44 774-256 Karar Tarihi : 17.6.2010 A. TOPLANTIYA KATILAN ÜYELER Başkan : Doç. Dr. Mustafa A...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9902846217155457,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=01c3cca3-6278-43cd-9e5b-526ed4ef643a.pdf",
+    "status": "success",
+    "text_length": 49909,
+    "cleaned_length": 49806,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2006-3-148 Soruşturma Karar Sayısı : 07-75 898-340 Karar Tarihi : 19.9.2007 A. TOPLANTIYA KATILAN ÜYELER 10 Başkan : Tuncay SONGÖR İ...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9908503293991089,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=01cb9a63-b855-4605-af39-807baa47926e.pdf",
+    "status": "success",
+    "text_length": 32622,
+    "cleaned_length": 32501,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2011-4-194 Önaraştırma Karar Sayısı : 11-47 1163-409 Karar Tarihi : 14.09.2011 A. TOPLANTIYA KATILAN ÜYELER Başkan :Prof. Dr. Nurett...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9912664294242859,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=01d3b741-966f-431e-b5b4-ea09db7ff92d.pdf",
+    "status": "success",
+    "text_length": 8923,
+    "cleaned_length": 8910,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2007-2-192 Karar Sayısı : 08-39 507-184 Karar Tarihi : 12.6.2008 A. TOPLANTIYA KATILAN ÜYELER 10 Başkan : Prof. Dr. Nurettin KALDIRI...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9909898042678833,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0d39dc53-441a-4dfb-88d0-688f9d51ef9c.pdf",
+    "status": "success",
+    "text_length": 4088,
+    "cleaned_length": 4079,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2007-4-209 Karar Sayısı : 07-90 1157-450 Karar Tarihi : 13.12.2007 A. TOPLANTIYA KATILAN ÜYELER Başkan : Prof. Dr. Nurettin KALDIRIM...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9907181859016418,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0d781b65-0af2-4539-b28f-352f3f5837e4.pdf",
+    "status": "success",
+    "text_length": 6065,
+    "cleaned_length": 6023,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2011-5-14 Önaraştırma Karar Sayısı : 12-22 594-180 Karar Tarihi : 25.04.2012 A. TOPLANTIYA KATILAN ÜYELER Başkan : Prof. Dr. Nuretti...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9912871718406677,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0daaf769-3b51-4c9a-aec1-6f2ce148d217.pdf",
+    "status": "success",
+    "text_length": 74779,
+    "cleaned_length": 74529,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2009-4-194 Önaraştırma Karar Sayısı : 09-57 1349-345 Karar Tarihi : 25.11.2009 10 A. TOPLANTIYA KATILAN ÜYELER Başkan : Prof. Dr. Nu...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9912332892417908,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0dd3befe-763e-48bb-91c3-fffa45dbeba5.pdf",
+    "status": "success",
+    "text_length": 3799,
+    "cleaned_length": 3761,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2012-4-215 Önaraştırma Karar Sayısı : 12-42 1265-416 Karar Tarihi : 28.08.2012 A. TOPLANTIYA KATILAN ÜYELER Başkan : Prof. Dr. Nuret...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9914702773094177,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0de99916-ac82-4742-aa36-73f4a05ac54a.pdf",
+    "status": "success",
+    "text_length": 4058,
+    "cleaned_length": 4050,
+    "text_preview": "REKABET KURULU KARARI Dosya Sayısı : D1 1 Ö.B.-01 2 İlk İnceleme Karar Sayısı : 01-49 498-122 Karar Tarihi : 16.10.2001 A- TOPLANTIYA KATILAN ÜYELER Başkan : Prof.Dr. M.Tamer MÜFTÜOĞLU Üyeler : Dr. Ke...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9910603165626526,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0dea889e-ec50-41f9-bae2-f7de34f48293.pdf",
+    "status": "success",
+    "text_length": 2118,
+    "cleaned_length": 2101,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2013-1-7 Önaraştırma Karar Sayısı : 13-25 337-155 Karar Tarihi : 02.05.2013 A. TOPLANTIYA KATILAN ÜYELER Başkan : Prof. Dr. Nurettin...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9913510084152222,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0dead430-ddfd-4c47-bf1d-f42a01663dc6.pdf",
+    "status": "success",
+    "text_length": 44644,
+    "cleaned_length": 43444,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2017-5-40 Önaraştırma Karar Sayısı : 18-03 35-22 Karar Tarihi : 18.01.2018 A. TOPLANTIYA KATILAN ÜYELER Başkan : Prof. Dr. Ömer TORL...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9900347590446472,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0df3e081-6861-4a06-b307-624f765e63a3.pdf",
+    "status": "success",
+    "text_length": 6947,
+    "cleaned_length": 6938,
+    "text_preview": "REKABET KURULU KARARI Dosya Sayısı : 2003-2-48 Karar Sayısı : 03-53 601-267 Karar Tarihi : 24.7.2003 A- TOPLANTIYA KATILAN ÜYELER Başkan : Mustafa PARLAK Üyeler : Tuncay SONGÖR, A. Ersan GÖKMEN, R. Mü...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.983249306678772,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0e030c1f-0e39-4ae9-a65e-4ef57342c2b7.pdf",
+    "status": "success",
+    "text_length": 13767,
+    "cleaned_length": 13678,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2012-2-89 Önaraştırma Karar Sayısı : 12-41 1151-369 Karar Tarihi : 09.08.2012 A. TOPLANTIYA KATILAN ÜYELER Başkan : Prof. Dr. Nurett...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9910767078399658,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  },
+  {
+    "file": "Karar-kararId=0e0a441a-0271-462f-9c22-d4ede2650561.pdf",
+    "status": "success",
+    "text_length": 7794,
+    "cleaned_length": 7775,
+    "text_preview": "Rekabet Kurumu Başkanlığından, REKABET KURULU KARARI Dosya Sayısı : 2010-3-166 Önaraştırma Karar Sayısı : 10-62 1291-490 Karar Tarihi : 30.9.2010 A. TOPLANTIYA KATILAN ÜYELER 10 Başkan : Prof. Dr. Nur...",
+    "classification": {
+      "label": "bid_rigging",
+      "confidence": 0.9895415306091309,
+      "risk_level": "HIGH",
+      "flagged": true
+    }
+  }
+]

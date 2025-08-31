@@ -1,0 +1,54 @@
+{
+  "accuracy": 0.7665916760404949,
+  "macro_f1": 0.656558494170063,
+  "per_class_metrics": {
+    "customer_sharing": {
+      "precision": 0.5920245398773006,
+      "recall": 0.7148148148148148,
+      "f1": 0.6476510067114094,
+      "support": 270
+    },
+    "exclusive_contracts": {
+      "precision": 0.8941176470588236,
+      "recall": 0.672566371681416,
+      "f1": 0.7676767676767676,
+      "support": 113
+    },
+    "bid_rigging": {
+      "precision": 0.940677966101695,
+      "recall": 0.985207100591716,
+      "f1": 0.9624277456647399,
+      "support": 676
+    },
+    "market_allocation": {
+      "precision": 0.7272727272727273,
+      "recall": 0.6428571428571429,
+      "f1": 0.6824644549763034,
+      "support": 112
+    },
+    "abuse_of_dominance": {
+      "precision": 0.5652173913043478,
+      "recall": 0.5752212389380531,
+      "f1": 0.5701754385964912,
+      "support": 113
+    },
+    "price_fixing": {
+      "precision": 0.5652173913043478,
+      "recall": 0.4642857142857143,
+      "f1": 0.5098039215686274,
+      "support": 112
+    },
+    "other_competition_violation": {
+      "precision": 0.4794520547945205,
+      "recall": 0.2229299363057325,
+      "f1": 0.30434782608695654,
+      "support": 157
+    },
+    "clean": {
+      "precision": 0.7285714285714285,
+      "recall": 0.9066666666666666,
+      "f1": 0.807920792079208,
+      "support": 225
+    }
+  }
+}

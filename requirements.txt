@@ -1,0 +1,3 @@
+streamlit
+# The project already depends on transformers and torch. Install them separately if needed:
+# pip install transformers torch
